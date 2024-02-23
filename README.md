@@ -15,9 +15,4 @@ Clone the repository to your local machine.
 Open the index.html file in your web browser.
 Enter a GitHub username in the input field and click "Search user."
 View the fetched user information displayed on the page.
-Screenshots
 
-
-Credits
-GitGlimpse is developed by [Your Name]. 🚀
-Special thanks to GitHub for providing the GitHub API. 🙏
